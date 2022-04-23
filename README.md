@@ -24,8 +24,6 @@ This is a web application that allows you to be in the loop about everything hap
 - Django 
 - Python 3.9
 - SQLlite
-- MapBox
-- LeafLet
 
 ## Setup Installation
 
