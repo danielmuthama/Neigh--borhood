@@ -1,20 +1,5 @@
 
 
-## Description
-This is a web application that allows you to be in the loop about everything happening in your neighborhood. You can check businesses around, You can view messages from other residents, You can add a business. You can check for Social services centers around e.g Hospital and many more.
-
-- * Before you get access to the platform you have to be added to the database by your neighbourhood administrator. *
-
-
-## Future Plans
-
-- Restrict neighbourhood radius to make it more effective.
-
-
-### Administrator Dashboard
-- Get details by Clicking on markers
-<img src="admin.png">
-
 ### Resident Dashboard
 <img src="peekinc.png">
 
