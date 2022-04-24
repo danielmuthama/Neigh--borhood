@@ -71,6 +71,11 @@ The following languages have been used on this project:
         HINT: Configure the DEFAULT_AUTO_FIELD setting or the PhotosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
 photos.Photo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
         HINT: Configure the DEFAULT_AUTO_FIELD setting or the PhotosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+SOLVED!!
+
+>     id = models.AutoField(primary_key=True)
+
 ## Author
 - DANIEL MUTHAMA
 
